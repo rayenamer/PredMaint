@@ -1,0 +1,5 @@
+{
+  "name": "Random Forest regressor",
+  "task": "Tool wear estimation (mm)",
+  "score": "MAE 0.108 mm on unseen tools (baseline 0.197)"
+}

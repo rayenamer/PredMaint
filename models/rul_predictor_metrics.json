@@ -1,0 +1,5 @@
+{
+  "name": "Random Forest regressor",
+  "task": "Remaining Useful Life (min)",
+  "score": "MAE 8.0 min on unseen tools (baseline 18.3)"
+}

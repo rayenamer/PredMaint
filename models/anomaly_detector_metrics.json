@@ -1,0 +1,6 @@
+{
+  "name": "Isolation Forest",
+  "task": "Anomaly detection (no labels)",
+  "threshold": 0.5673,
+  "score": "alarms on 97% of worn-tool runs"
+}

@@ -1,0 +1,7 @@
+.venv/
+dashboard/node_modules/
+dashboard/dist/
+__pycache__/
+.ipynb_checkpoints/
+data/historian.db
+data/mill.mat
